@@ -1,2 +1,2 @@
 ### Hey, I'm Nico
-Web developer, designer, and full time student.
+I create modern websites, apps, and utilities with Human-Centered Design principles... and I love minimalism.
